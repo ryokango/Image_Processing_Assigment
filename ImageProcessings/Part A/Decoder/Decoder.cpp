@@ -1,6 +1,6 @@
 #include <iostream>
 #include <opencv.hpp>
-#include <iostream> // standard C++ I/O
+#include <iostream> // standard C++ I
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
 #include <iostream>
